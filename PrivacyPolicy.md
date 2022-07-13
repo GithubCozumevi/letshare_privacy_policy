@@ -3,7 +3,7 @@
 Tüm Kullanıcılarımızın gizliliği bizim için çok önemlidir. Bir Letshare Kullanıcısı olarak Hizmetimizi kullandığınızda, Kişisel Verilerinizi işleriz. Bu Gizlilik Bildirimi, Kişisel Verilerinizi nasıl koruduğumuzu ve işleme koyduğumuzu açıklar. Dikkatlice okumanızı öneririz. 
 
 #### 1. Bu Gizlilik Bildiriminde Ne Belirtilmiştir?
- 	Bu Gizlilik Bildirimindeki bölümler size aşağıdakiler hakkında bilgi verir: 
+ Bu Gizlilik Bildirimindeki bölümler size aşağıdakiler hakkında bilgi verir: 
 - İşlenen Kişisel Verilerin türleri,
 - Kişisel Verilerin işlenme amaçları, 
 - Kişisel Verilerin işlendiği yerler,
