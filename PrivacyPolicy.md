@@ -77,4 +77,5 @@ Bu Bildirimde yapılan değişikliklerin herhangi birine bağlı kalmayı kabul 
 
 #### 10. Herhangi Bir Sorunuz Ya Da Açıklamalarınız Varsa Ne Yapacaksınız?
 Bu Gizlilik Bildirimi ile ilgili herhangi bir sorunuz veya açıklamalarınız varsa, lütfen aşağıdaki adrese bir e-posta göndererek bizimle iletişime geçebilirsiniz.
+
 E-posta : ………………………………
