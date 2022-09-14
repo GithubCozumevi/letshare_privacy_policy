@@ -77,12 +77,12 @@ Letshare üyelik ve  Dijital Kartvizit oluşturma ve diğer üyeler ile etkileş
 
   Kişisel verileriniz, tercihleriniz doğrultusunda Mobil Uygulama’yı kullanımınız sırasında Hizmetler’den faydalanmanızın sağlanması kapsamında hukuki yükümlülüklerin yerine getirilmesi, sözleşmenin kurulması ve ifası, bir hakkın tesisi, kullanılması ve korunması, veri sorumlusu olarak Şirket’in meşru menfaati ile bulunması halinde açık rıza hukuki sebeplerine dayalı olarak işlenmektedir.
   
-	Kişisel verileriniz, Mobil Uygulama’yı kullanımınız sırasında, internet sitesi, mobil uygulama, telefon, matbu ve çevrimiçi formlar, e-posta, posta / kargo, çağrı ve iletişim merkezi, kurumsal sosyal medya hesapları kanalları vasıtasıyla ,mobil cihazların kamera ve ses kayıt cihazları ve mikrofonları da kullanılarak elektronik ve fiziki ortamda toplanmaktadır. Kişisel verileriniz Uygulamada kullanılan Çerezler aracılığı ile de toplanabilmektedir.
+   Kişisel verileriniz, Mobil Uygulama’yı kullanımınız sırasında, internet sitesi, mobil uygulama, telefon, matbu ve çevrimiçi formlar, e-posta, posta / kargo, çağrı ve iletişim merkezi, kurumsal sosyal medya hesapları kanalları vasıtasıyla ,mobil cihazların kamera ve ses kayıt cihazları ve mikrofonları da kullanılarak elektronik ve fiziki ortamda toplanmaktadır. Kişisel verileriniz Uygulamada kullanılan Çerezler aracılığı ile de toplanabilmektedir.
 
 
 #### 6. 6698 Sayılı Kişisel Verilerin Korunması Hakkında Kanun’un 11’inci Maddesi Uyarınca Haklarınız
 
-	Kişisel verilerinizin işlenmesine ilişkin olarak Kanun’un 11’inci maddesi uyarınca aşağıdaki haklara sahip sahipsiniz:
+   Kişisel verilerinizin işlenmesine ilişkin olarak Kanun’un 11’inci maddesi uyarınca aşağıdaki haklara sahip sahipsiniz:
   
 - Kişisel verilerinizin işlenip işlenmediğini öğrenme,
 - Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,
@@ -101,76 +101,76 @@ Elektronik Posta Adresi: ………………………………………………�
 
 (*) Şirket’e daha önce bildirilen / sistemlerimizde kayıtlı bulunan bir e-posta adresi vasıtasıyla gönderim yapacaksanız, başvurularınızı doğrudan yukarıdaki adrese iletebilirsiniz. Ancak, gönderim yapacağınız e-posta adresi sistemlerimizde kayıtlı değil ise gönderimin güvenli elektronik imza veya mobil imza ile yapılması gerekmektedir.
 
-	Talebinizin niteliğine göre en kısa sürede ve en geç otuz gün içinde başvurularınız ücretsiz olarak sonuçlandırılacaktır. Ancak, işlemin ayrıca bir maliyet gerektirmesi halinde Kişisel Verileri Koruma Kurulu tarafından belirlenecek tarifeye göre tarafınızdan ücret talep edilebilecektir.
+   Talebinizin niteliğine göre en kısa sürede ve en geç otuz gün içinde başvurularınız ücretsiz olarak sonuçlandırılacaktır. Ancak, işlemin ayrıca bir maliyet gerektirmesi halinde Kişisel Verileri Koruma Kurulu tarafından belirlenecek tarifeye göre tarafınızdan ücret talep edilebilecektir.
 
 
 
 #### 7. Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) Kapsamındaki Hususlar
 
-  Genel Veri Koruma Tüzüğü (GDPR); Avrupa Ekonomik Alanı'ndan (AEA) iseniz, bilmeniz gerekir ki Letshare  Gizlilik Politikasında açıklanan hususlar GDPR ile uyumlandırılmıştır.
+   Genel Veri Koruma Tüzüğü (GDPR); Avrupa Ekonomik Alanı'ndan (AEA) iseniz, bilmeniz gerekir ki Letshare  Gizlilik Politikasında açıklanan hususlar GDPR ile uyumlandırılmıştır.
   
-	Avrupa Ekonomik Alanı (AEA) dışında bulunuyorsanız ve bize bilgi vermeyi seçiyorsanız, Kişisel Veriler de dahil olmak üzere verileri Avrupa Ekonomik Alanı'na (AEA) aktardığımızı ve orada işlediğimizi lütfen unutmayın.
+   Avrupa Ekonomik Alanı (AEA) dışında bulunuyorsanız ve bize bilgi vermeyi seçiyorsanız, Kişisel Veriler de dahil olmak üzere verileri Avrupa Ekonomik Alanı'na (AEA) aktardığımızı ve orada işlediğimizi lütfen unutmayın.
   
-	Avrupa Ekonomik Alanı (AEA) içinde bulunuyorsanız ve dijital kartınızı Avrupa Ekonomik Alanı (AEA) dışında ikamet eden kişilere göndermeyi seçerseniz, Kişisel Veriler de dahil olmak üzere verileri sizin adınıza bu kişilere aktardığımızı lütfen unutmayın.
+   Avrupa Ekonomik Alanı (AEA) içinde bulunuyorsanız ve dijital kartınızı Avrupa Ekonomik Alanı (AEA) dışında ikamet eden kişilere göndermeyi seçerseniz, Kişisel Veriler de dahil olmak üzere verileri sizin adınıza bu kişilere aktardığımızı lütfen unutmayın.
   
-	Bu Gizlilik Politikasına verdiğiniz onayın ardından bu tür bilgileri göndermeniz, bu aktarıma ilişkin anlaşmanızı/onayınızı / açık rızanızı  temsil eder.
-	Avrupa Ekonomik Alanı'nda (AEA) ikamet ediyorsanız, belirli veri koruma haklarına sahipsiniz. Letshare, Kişisel Verilerinizin kullanımını düzeltmenize, değiştirmenize, silmenize veya sınırlandırmanıza izin vermek için makul adımlar atmaya çabalayacaktır..
-	Hakkınızda tuttuğumuz Kişisel Verilerden haberdar olmak ve sistemlerimizden silinmesini istiyorsanız lütfen bizimle iletişime geçin.
+   Bu Gizlilik Politikasına verdiğiniz onayın ardından bu tür bilgileri göndermeniz, bu aktarıma ilişkin anlaşmanızı/onayınızı / açık rızanızı  temsil eder.
+   Avrupa Ekonomik Alanı'nda (AEA) ikamet ediyorsanız, belirli veri koruma haklarına sahipsiniz. Letshare, Kişisel Verilerinizin kullanımını düzeltmenize, değiştirmenize, silmenize veya sınırlandırmanıza izin vermek için makul adımlar atmaya çabalayacaktır..
+   Hakkınızda tuttuğumuz Kişisel Verilerden haberdar olmak ve sistemlerimizden silinmesini istiyorsanız lütfen bizimle iletişime geçin.
   
-  Belirli durumlarda, aşağıdaki veri koruma haklarına sahipsiniz:
+   Belirli durumlarda, aşağıdaki veri koruma haklarına sahipsiniz:
   
-	Hakkınızda sahip olduğumuz bilgilere erişme, güncelleme veya silme hakkı: Mümkün olduğunda, Kişisel Verilerinize doğrudan hesap ayarları bölümünden erişebilir, bunları güncelleyebilir veya silinmesini talep edebilirsiniz. Bu işlemleri kendiniz yapamıyorsanız, size yardımcı olmak için lütfen bizimle iletişime geçin.
+   Hakkınızda sahip olduğumuz bilgilere erişme, güncelleme veya silme hakkı: Mümkün olduğunda, Kişisel Verilerinize doğrudan hesap ayarları bölümünden erişebilir, bunları güncelleyebilir veya silinmesini talep edebilirsiniz. Bu işlemleri kendiniz yapamıyorsanız, size yardımcı olmak için lütfen bizimle iletişime geçin.
   
-	Düzeltme hakkı: Bu bilgilerin yanlış veya eksik olması durumunda bilgilerinizin düzeltilmesini isteme hakkınız vardır.
+   Düzeltme hakkı: Bu bilgilerin yanlış veya eksik olması durumunda bilgilerinizin düzeltilmesini isteme hakkınız vardır.
   
-  İtiraz hakkı: Kişisel Verilerinizi işlememize itiraz etme hakkına sahipsiniz.
+   İtiraz hakkı: Kişisel Verilerinizi işlememize itiraz etme hakkına sahipsiniz.
   
-	Kısıtlama hakkı: Kişisel bilgilerinizin işlenmesini kısıtlamamızı talep etme hakkına sahipsiniz.
+   Kısıtlama hakkı: Kişisel bilgilerinizin işlenmesini kısıtlamamızı talep etme hakkına sahipsiniz.
   
-	Veri taşınabilirliği hakkı: Hakkınızda sahip olduğumuz bilgilerin bir kopyasını yapılandırılmış, makine tarafından okunabilir ve yaygın olarak kullanılan bir biçimde alma hakkınız vardır.
+   Veri taşınabilirliği hakkı: Hakkınızda sahip olduğumuz bilgilerin bir kopyasını yapılandırılmış, makine tarafından okunabilir ve yaygın olarak kullanılan bir biçimde alma hakkınız vardır.
   
-	Rızayı geri çekme hakkı: Ayrıca, kişisel bilgilerinizi işlemek için vermiş olduğunuz onayı her zaman geri alabilirsiniz.
-	Lütfen bu tür taleplere yanıt vermeden önce kimliğinizi doğrulamanızı isteyebileceğimizi unutmayın.
+   Rızayı geri çekme hakkı: Ayrıca, kişisel bilgilerinizi işlemek için vermiş olduğunuz onayı her zaman geri alabilirsiniz.
+   Lütfen bu tür taleplere yanıt vermeden önce kimliğinizi doğrulamanızı isteyebileceğimizi unutmayın.
   
-	Kişisel Verilerinizi toplamamız ve kullanmamız hakkında bir Veri Koruma Kurumuna şikâyette bulunma hakkınız vardır. Daha fazla bilgi için lütfen Avrupa Ekonomik Alanı'ndaki (EEA) yerel veri koruma yetkilinizle iletişime geçin.
+   Kişisel Verilerinizi toplamamız ve kullanmamız hakkında bir Veri Koruma Kurumuna şikâyette bulunma hakkınız vardır. Daha fazla bilgi için lütfen Avrupa Ekonomik Alanı'ndaki (EEA) yerel veri koruma yetkilinizle iletişime geçin.
 
 
 #### 8. Servis Sağlayıcıları
 
-  Hizmetimizi kolaylaştırmak ("Hizmet Sağlayıcılar"), Hizmeti bizim adımıza sağlamak,Uygulama  ilgili hizmetleri gerçekleştirmek veya Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için üçüncü taraf şirketleri ve bireyleri kullanabiliriz.
+   Hizmetimizi kolaylaştırmak ("Hizmet Sağlayıcılar"), Hizmeti bizim adımıza sağlamak,Uygulama  ilgili hizmetleri gerçekleştirmek veya Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için üçüncü taraf şirketleri ve bireyleri kullanabiliriz.
   
-	Bu üçüncü şahıslar, Kişisel Verilerinize yalnızca bu görevleri bizim adımıza gerçekleştirmek için erişebilir ve bunları ifşa etmemek veya başka herhangi bir amaçla kullanmamakla yükümlüdür.
+   Bu üçüncü şahıslar, Kişisel Verilerinize yalnızca bu görevleri bizim adımıza gerçekleştirmek için erişebilir ve bunları ifşa etmemek veya başka herhangi bir amaçla kullanmamakla yükümlüdür.
 
 
 #### 9. Uygulama İçi Satın Alma
 
   Hizmet dahilinde ücretli ürünler ve/veya hizmetler sağlayabiliriz. Bu durumda, ödeme işlemleri için üçüncü taraf hizmetleri kullanılacaktır. (örn. ödeme işlemcileri).
   
-	Ödeme kartı bilgilerinizi saklamayacağız veya toplamayacağız. Bu bilgiler, Gizlilik Politikalarına tabi olan üçüncü taraf ödeme işlemcilerine  doğrudan sizin tarafınızdan ve sizin sorumluluğunuzda sağlanacak ve bu platformlarda paylaşmış olduğunuz kişisel veriler üçüncü tarafların Gizlilik Politikalarına tabi olacaktır. 
+   Ödeme kartı bilgilerinizi saklamayacağız veya toplamayacağız. Bu bilgiler, Gizlilik Politikalarına tabi olan üçüncü taraf ödeme işlemcilerine  doğrudan sizin tarafınızdan ve sizin sorumluluğunuzda sağlanacak ve bu platformlarda paylaşmış olduğunuz kişisel veriler üçüncü tarafların Gizlilik Politikalarına tabi olacaktır. 
 
 
 #### 10. Çocukların Gizliliği
 
-	Hizmetimiz 18 yaşın altındaki hiç kimseye ("Çocuklar") hitap etmez.
+   Hizmetimiz 18 yaşın altındaki hiç kimseye ("Çocuklar") hitap etmez.
   
-	18 yaşın altındaki hiç kimseden bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. Bir ebeveyn veya vasi iseniz ve Çocuğunuzun bize Kişisel Veriler sağladığının farkındaysanız, lütfen bizimle iletişime geçin. Ebeveyn iznini doğrulamadan çocuklardan Kişisel Veriler topladığımızı fark edersek, bu bilgileri sunucularımızdan kaldırmak için adımlar atarız.
+   18 yaşın altındaki hiç kimseden bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. Bir ebeveyn veya vasi iseniz ve Çocuğunuzun bize Kişisel Veriler sağladığının farkındaysanız, lütfen bizimle iletişime geçin. Ebeveyn iznini doğrulamadan çocuklardan Kişisel Veriler topladığımızı fark edersek, bu bilgileri sunucularımızdan kaldırmak için adımlar atarız.
   
   
 #### 11. KVKK Metni Uyarınca Dikkat Edilmesi Gereken Hususlar
 
-	Letshare olarak kişisel verilerinizin güvenliği hususuna azami hassasiyet göstermekteyiz. Bu bilinçle, Şirket bünyesinde hizmet/servis verilen gerçek kişilere ait kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu (“Kanun”)’na, Kanun’a bağlı yürürlüğe koyulan ve koyulacak ikincil düzenlemelere (yönetmelik, tebliğ, genelge) ve bağlayıcı nitelikteki Kişisel Verileri Koruma Kurul’u tarafından alınmış ve alınacak kararlara uygun olarak işlenerek, muhafaza edilmesine büyük önem atfetmekteyiz. Bu sorumluluğumuzun tam idraki ile Kanun’da tanımlı şekli ile “Veri Sorumlusu” sıfatıyla, kişisel verileriniz yukarıda detaylı olarak izah edildiği surette ve mevzuat tarafından emredilen sınırlar çerçevesinde işlemekteyiz.
+   Letshare olarak kişisel verilerinizin güvenliği hususuna azami hassasiyet göstermekteyiz. Bu bilinçle, Şirket bünyesinde hizmet/servis verilen gerçek kişilere ait kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu (“Kanun”)’na, Kanun’a bağlı yürürlüğe koyulan ve koyulacak ikincil düzenlemelere (yönetmelik, tebliğ, genelge) ve bağlayıcı nitelikteki Kişisel Verileri Koruma Kurul’u tarafından alınmış ve alınacak kararlara uygun olarak işlenerek, muhafaza edilmesine büyük önem atfetmekteyiz. Bu sorumluluğumuzun tam idraki ile Kanun’da tanımlı şekli ile “Veri Sorumlusu” sıfatıyla, kişisel verileriniz yukarıda detaylı olarak izah edildiği surette ve mevzuat tarafından emredilen sınırlar çerçevesinde işlemekteyiz.
   
 
 #### 12. Veri Sorumlusuna İlişkin Bilgiler
 
-	Kanun uyarınca, Orta Mahallesi Ordu Sokak İzpark Plaza A Blok No:23A İç Kapı:13 Kartal/İSTANBUL adresinde mukim Çözümevi Yönetim Danışmanlığı ve Bilgisayar Yazılım Ticaret A.Ş. Veri Sorumlusudur.
+   Kanun uyarınca, Orta Mahallesi Ordu Sokak İzpark Plaza A Blok No:23A İç Kapı:13 Kartal/İSTANBUL adresinde mukim Çözümevi Yönetim Danışmanlığı ve Bilgisayar Yazılım Ticaret A.Ş. Veri Sorumlusudur.
   
 
 #### 13. Kişisel Verilerinizi Saklama ve İmha Süreci
 
-	İşbu gizlilik politikası ve aydınlatma metninde işleneceği söylenen kişisel verileriniz müşteri ilişkimiz devam ettiği sürece kaydedilmeye, işlenilmeye ve işbu Aydınlatma Metninde belirtilen kişilere aktarılmaya devam edecektir.
+   İşbu gizlilik politikası ve aydınlatma metninde işleneceği söylenen kişisel verileriniz müşteri ilişkimiz devam ettiği sürece kaydedilmeye, işlenilmeye ve işbu Aydınlatma Metninde belirtilen kişilere aktarılmaya devam edecektir.
   
-	İlgili Kanun çerçevesinde belirlenmiş yasal saklama sürelerince kaydedilmesi, saklanması ve aktarılması hususları ile yasal saklama süresinin dolması halinde ilgili Kanun ve buna bağlı ikincil yasal düzenlemelere uygun şekilde silinecek, yok edilecek veya anonim hale getirilecektir.
+   İlgili Kanun çerçevesinde belirlenmiş yasal saklama sürelerince kaydedilmesi, saklanması ve aktarılması hususları ile yasal saklama süresinin dolması halinde ilgili Kanun ve buna bağlı ikincil yasal düzenlemelere uygun şekilde silinecek, yok edilecek veya anonim hale getirilecektir.
   
 
 #### 14. Veri Sahiplerinin Kanun Kapsamındaki Hakları
@@ -188,7 +188,7 @@ Dilediğiniz zaman Letshare’a başvurarak;
 
 Haklarınızı kullanmayı talep edebilirsiniz. Haklarınıza ve Kanunun uygulanmasına ilişkin taleplerinizi, …………………………………… adresinden temin edebileceğiniz başvuru formunu doldurarak ıslak imzalı şekilde Orta Mahallesi Ordu Sokak İzpark Plaza A Blok No:23A İç Kapı:13 Kartal/İSTANBUL adresine noter kanalıyla, iadeli taahhütlü posta yoluyla veya şahsi başvurunuzla ya da elektronik ortamda doldurduğunuz başvuru formunu mobil imzanızla, güvenli elektronik imzanızla imzaladıktan sonra KEP adresinizi veya Şirket’in veri kayıt sisteminde halihazırda kayıtlı olan e-posta adresinizi kullanarak ……………………………………. adresine iletebilirsiniz. Letshare, bu kapsamdaki taleplere yazılı olarak cevap verilecekse, on sayfaya kadar ücret almadan; on sayfanın üzerindeki her sayfa için 1,00 Türk lirası işlem ücreti alarak yanıtlandıracaktır. Başvuruya cevabın CD, flash bellek gibi bir kayıt ortamında verilmesi halinde Şirket tarafından talep edilebilecek ücret kayıt ortamının maliyetini geçemeyecektir.
 
-	Kişisel veri sahibi olarak sahip olduğunuz ve yukarıda belirtilen haklarınızı kullanmak için yapacağınız ve kullanmayı talep ettiğiniz hakka ilişkin açıklamalarınızı içeren başvuruda; talep ettiğiniz hususun açık ve anlaşılır olması, talep ettiğiniz konunun şahsınız ile ilgili olması veya başkası adına hareket ediyor iseniz bu konuda noter tarafından tasdiklenmiş özel vekâletnamenizi ibraz etmeniz gerekecektir. Başvurularınızda, ad-soyad, imza, T.C. kimlik numarası, ikamet veya işyeri adresi, e-posta adresi, telefon ve faks numarası, talep konusu unsurlarının bulunması “Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ” uyarınca zorunludur. Söz konusu unsurları barındırmayan başvurular Letshare tarafından reddedilecektir.
+   Kişisel veri sahibi olarak sahip olduğunuz ve yukarıda belirtilen haklarınızı kullanmak için yapacağınız ve kullanmayı talep ettiğiniz hakka ilişkin açıklamalarınızı içeren başvuruda; talep ettiğiniz hususun açık ve anlaşılır olması, talep ettiğiniz konunun şahsınız ile ilgili olması veya başkası adına hareket ediyor iseniz bu konuda noter tarafından tasdiklenmiş özel vekâletnamenizi ibraz etmeniz gerekecektir. Başvurularınızda, ad-soyad, imza, T.C. kimlik numarası, ikamet veya işyeri adresi, e-posta adresi, telefon ve faks numarası, talep konusu unsurlarının bulunması “Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ” uyarınca zorunludur. Söz konusu unsurları barındırmayan başvurular Letshare tarafından reddedilecektir.
   
   
 #### 15. Bilgiye Dayalı Aydınlatma
