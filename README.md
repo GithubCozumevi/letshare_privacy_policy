@@ -219,7 +219,7 @@ HERHANGİ BİR DEĞİŞİKLİK İÇİN BU GİZLİLİK POLİTİKASINI PERİYODİK
    Uygulamayı geliştirmek, kullanışlı, etkili ve güvenli hale getirmek amacıyla çerez kullanmaktayız. Çerez, web sitesinde ziyaret ettiğiniz uygulama tarafından tarayıcınıza gönderilen bir metin parçasıdır ve ziyaretinizle ilgili bilgileri hatırlamasına yardımcı olur. Çerezler sayesinde bir sonraki ziyaretinizde daha iyi ve kişiselleştirilmiş Kullanıcı deneyimi yaşarsınız.
 
 
-##### Letshare Tarafından Kullanılan Çerezler
+#### Letshare Tarafından Kullanılan Çerezler
 
    Geçici Çerezler: Sadece oturum sırasında geçici olarak depolanır ve en kısa sürede tarayıcınızı kapattıktan sonra kaldırılır.
    
@@ -236,12 +236,12 @@ HERHANGİ BİR DEĞİŞİKLİK İÇİN BU GİZLİLİK POLİTİKASINI PERİYODİK
    İzleme Çerezleri: İzleme çerezleri ziyaretçilerin internet tarama davranışlarını izlemek ve ziyaret ettikleri çeşitli internet sitelerinden kendi tarama davranışına veri ve bilgi toplamak için kullanılır.
 
 
-##### Çerezler Engellenebilir mi?
+#### Çerezler Engellenebilir mi?
 
    Çerezlerin kullanımına ilişkin tercihlerinizi değiştirmek ya da çerezleri engellemek veya silmek için kullandığınız cihazın ayarlarını değiştirmeniz yeterlidir. Çerezleri kontrol edebilmeniz için size çerezleri kabul etme veya reddetme, yalnızca belirli türdeki çerezleri kabul etme ya da bir cihazınıza çerez depolamayı talep ettiğinde size uyarılma seçeneği sunar. Aynı zamanda daha önce tarayıcınıza kaydedilmiş çerezlerin silinmesi de mümkündür. Ancak çerezleri silmeniz ve ilerideki çerezlerin cihazınıza indirilmesini engellemeniz durumunda özelliklerimizin bazılarına ulaşamayacağınızı hatırlatmak isteriz. 
    
    
-##### Şirketimiz üçüncü taraf çerezlerini reklam ve yeniden hedefleme için nasıl kullanmaktadır?
+#### Şirketimiz üçüncü taraf çerezlerini reklam ve yeniden hedefleme için nasıl kullanmaktadır?
 
    Şirketimiz; çevrimiçi ve çevrimdışı kaynaklardan açık rızanız ile elde ettiği ilgili kişisel verileri, kişiselleştirilmiş reklamcılık uygulamalarında tarafınıza çeşitli avantajların sağlanıp sunulabilmesi ve kişisel olarak size uygun reklam, tanıtım, satış, pazarlama, etkinlik yönetimi, promosyon, kampanya bildirimi, veri zenginleştirme, çapraz cihaz hedefleme ile arama motorları aracılığıyla reklam gösterimi amacıyla kullanmaktadır. Bu doğrultuda, veri yönetim platformları, sosyal medya platformları ve benzeri dijital reklam platformlarından ve teknolojilerinden de faydalanmaktadır. Bu platformların yönetimi için belli sözleşmeler çerçevesinde farklı firmalarla iş birliği yapmakta ve operasyonel süreçlerde çeşitli firmalardan destek almaktadır.
 
