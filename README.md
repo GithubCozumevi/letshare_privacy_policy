@@ -206,7 +206,48 @@ HERHANGİ BİR DEĞİŞİKLİK İÇİN BU GİZLİLİK POLİTİKASINI PERİYODİK
 
 
 
+## LETSHARE ÇEREZ POLİTİKASI
+
+   Çözümevi Yönetim Danışmanlığı ve Bilgisayar Yazılım Ticaret A.Ş. (“Şirketimiz”) mobil uygulama kullandığımız çerezler için, kullanıcıların açık rızaları alınmakta ve diledikleri zaman bu rızayı değiştirebilme olanağı sağlanmaktadır. Açık rıza yönetimi olarak adlandırdığımız bu sistem, web sitesinin ana sayfasında yer alan banner’da yer almaktadır. Kullanıcılar bu banner üzerinden, web sitesinde kullanılan çerez çeşitlerini, çerez sahiplerini, çerezlerin amacı ve niteliği ile süresini görebilmekte ve Zorunlu Çerezler dışında kalan tüm çerezler için “aktif” veya “inaktif” seçeneği ile tercihlerini belirleyebilmektedirler. Yine bu banner üzerinden yaptıkları tercihleri her zaman değiştirebilmeleri mümkündür.
+   
+   Letshare çerezler aracılığıyla topladığı bilgileri kanuna ve ilgili mevzuata uygun olarak kullanmaktadır.
+   
+   Cihazınıza çerezler yerleştirmesini istemiyorsanız cihazınızın ayarları veya seçeneklerinden çerezlerin kullanımını reddedebilirsiniz. Web sitesini ziyaretinizde en iyi deneyimi yaşayabilmek için çerezlerin kullanımını reddetmemenizi öneririz.
+   
+   Letshare gerekli gördüğü durumlarda Çerez Politikasını değiştirebilir.
+   
+   Uygulamayı geliştirmek, kullanışlı, etkili ve güvenli hale getirmek amacıyla çerez kullanmaktayız. Çerez, web sitesinde ziyaret ettiğiniz uygulama tarafından tarayıcınıza gönderilen bir metin parçasıdır ve ziyaretinizle ilgili bilgileri hatırlamasına yardımcı olur. Çerezler sayesinde bir sonraki ziyaretinizde daha iyi ve kişiselleştirilmiş Kullanıcı deneyimi yaşarsınız.
+
+
+##### Letshare Tarafından Kullanılan Çerezler
+
+   Geçici Çerezler: Sadece oturum sırasında geçici olarak depolanır ve en kısa sürede tarayıcınızı kapattıktan sonra kaldırılır.
+   
+   Kalıcı Çerezler: Tarayıcı veya uygulamayı kapattıktan sonra bilgisayar/mobil cihazda kalır döndüğünüzde sizi tanımak için kullanılır. Kalıcı çerezlerin süreleri dolana kadar yeni bir çerez yüklenir, bilgisayarınızda veya mobil cihazınızda kalır.
+   
+   Hedef/Reklam Çerezleri: Reklam çerezleri, bir uygulamayı kullanım ziyareti sırasında üçüncü bir şahıs tarafından yüklenen çerezlerdir. Reklam çerezleri, üçüncü bir şahsa, sitemizi ziyaretinizle ilgili bazı bilgileri iletmek için kullanılır.
+   
+   Zorunlu Çerezler: Gerekli ve önemli çerezdir. Kullanıcı hesabı oluşturmanıza, giriş yapmanıza ve uygulamada gezinti yapmanıza olanak sağlar. Kalıcı çerezler tarayıcı veya uygulamayı kapattıktan sonra bilgisayarınızda veya mobil cihazınızda kalır ve uygulamamıza döndüğünüzde sizi tanımak için kullanılır.
+   
+   Performans ve Analiz Çerezleri: Ziyaretçilerin uygulamalardaki genel çalışmasını geliştirmek için uygulamayı (onlar izlenen sayfalar, ziyaretin ortalama süresi vs.) nasıl kullandığınız hakkında bilgi toplamak için kullanılır.
+   
+   İşlevsellik Çerezleri: İşlevsellik çerezleri, uygulamayı ziyareti kolaylaştırmak ve tarama deneyiminizi geliştirmek için kullanılan çerezlerdir. Tercih ettiğiniz dil, düzen veya renk şeması gibi belirli ayarları hatırlamak için izin verir.
+   
+   İzleme Çerezleri: İzleme çerezleri ziyaretçilerin internet tarama davranışlarını izlemek ve ziyaret ettikleri çeşitli internet sitelerinden kendi tarama davranışına veri ve bilgi toplamak için kullanılır.
+
+
+##### Çerezler Engellenebilir mi?
+
+   Çerezlerin kullanımına ilişkin tercihlerinizi değiştirmek ya da çerezleri engellemek veya silmek için kullandığınız cihazın ayarlarını değiştirmeniz yeterlidir. Çerezleri kontrol edebilmeniz için size çerezleri kabul etme veya reddetme, yalnızca belirli türdeki çerezleri kabul etme ya da bir cihazınıza çerez depolamayı talep ettiğinde size uyarılma seçeneği sunar. Aynı zamanda daha önce tarayıcınıza kaydedilmiş çerezlerin silinmesi de mümkündür. Ancak çerezleri silmeniz ve ilerideki çerezlerin cihazınıza indirilmesini engellemeniz durumunda özelliklerimizin bazılarına ulaşamayacağınızı hatırlatmak isteriz. 
+   
+   
+##### Şirketimiz üçüncü taraf çerezlerini reklam ve yeniden hedefleme için nasıl kullanmaktadır?
+
+   Şirketimiz; çevrimiçi ve çevrimdışı kaynaklardan açık rızanız ile elde ettiği ilgili kişisel verileri, kişiselleştirilmiş reklamcılık uygulamalarında tarafınıza çeşitli avantajların sağlanıp sunulabilmesi ve kişisel olarak size uygun reklam, tanıtım, satış, pazarlama, etkinlik yönetimi, promosyon, kampanya bildirimi, veri zenginleştirme, çapraz cihaz hedefleme ile arama motorları aracılığıyla reklam gösterimi amacıyla kullanmaktadır. Bu doğrultuda, veri yönetim platformları, sosyal medya platformları ve benzeri dijital reklam platformlarından ve teknolojilerinden de faydalanmaktadır. Bu platformların yönetimi için belli sözleşmeler çerçevesinde farklı firmalarla iş birliği yapmakta ve operasyonel süreçlerde çeşitli firmalardan destek almaktadır.
+
+   Şirketimiz; çerezler, dijital cihazların tanımlayıcı bilgileri ve SDK gibi yöntemler yoluyla elde edilen çevrimiçi Kullanıcı bilgilerini ve çevrimdışı kaynaklardan elde ettiği Kullanıcı bilgilerini kullanarak, müşterilerini, dijital reklam platformları veya teknolojileri üzerinde çeşitli kategori ve gruplara ayırmaktadır. Bu veriler, çeşitli algoritmalar kullanılarak ve uluslararası kabul gören şifreleme metotları ile dijital reklam platformlarına entegre edilmekte ve güvenli bir şekilde tutulmaktadır.
+
+   İnternet Tabanlı Reklamcılık yapabilmek için, Veri Yönetim Platform’u (Data Management Platform, “DMP”) uygulamasını kullanmaktadır. DMP’ye çerez kullanımı, cross-device/cross-contact teknolojileri aracılığıyla (örneğin; statik ID’ler) veya Kullanıcı tarafından DMP’ye sağlanan diğer eşsiz betimleyicileri (örneğin; cihaz ID’si) kullanarak anonim bir profil oluşturmaktadır. Bu bilgiler sadece sizinle daha ilgili olan pazarlama içeriğini göstermek amacıyla kullanılmaktadır ve muhafaza edilmektedir.
 
 
 
-  
